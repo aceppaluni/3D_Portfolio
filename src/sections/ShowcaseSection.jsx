@@ -66,11 +66,11 @@ const ShowcaseSection = ( ) => {
                         </div>
 
                         <div className="project" ref={dappRef}>
-                            <div className="image-wrapper bg-[#1a1a40]">
-                                <img src="/images/dappazon.png"  />
+                            <div className="image-wrapper bg-[#666666]">
+                                <img src="/images/sauce.png"  />
                             </div>
-                            <h2>Dappazon</h2>
-                            <p className="text-white-50 md:text-xl">A dapp clone of Amazon that uses Metamask and Solidity.</p>
+                            <h2>QA-Automation</h2>
+                            <p className="text-white-50 md:text-xl">A showcase of automated UI and API testing using Playwright, following QA best practices.</p>
                         </div>
                     </div>
 
