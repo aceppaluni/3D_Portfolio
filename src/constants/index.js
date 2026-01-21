@@ -89,6 +89,8 @@ export const expCards = [
     date: "December 2024 - Present",
     type: "Part-Time",
     responsibilities: [
+      "Developed issue templates and guidelines to support adoption of the Good First Issue initiative across C++ and Python software development kits",
+      "Led cross-functional meetings to share progress, adoption metrics, and insights for SDKs implementing the Good First Issue initiative",
       "Implemented TokenInfoQuery classes to support secure on-chain metadata queries ",
       "Improved SDK key management features by working on public/private key utility methods to support secure identity handling",
       "Documented cross-platform compatibility issues related to Windows usage increasing initial setup and onboarding time by 60% ",
